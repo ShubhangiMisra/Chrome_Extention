@@ -1,2 +1,2 @@
 # Chrome_Extention
-A page action chrome extension 
+A browser action chrome extension which tracks the tweets posted by a user handle say narendra modi
