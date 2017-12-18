@@ -1,0 +1,21 @@
+{
+	"manifest_version": 2,
+	"name": "Tweets Tracker",
+	"version": "1.0",
+	"Description": "A chrome extention which tracks the tweets posted by a user handle",
+	"icons": {
+          "128" : "icon128.png",
+          "48" : "icon48.png",
+          "16" : "icon16.png"
+       	},
+  "homepage_url" : "https://twitter.com/narendramodi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+  "background_page": "background.html",
+  "permissions": [
+    ""
+  ]     
+       	"browser_action": {
+       	  "default_icon": "icon16.png",
+          "default_title": "Tweets Tracker",
+       	  "default_popup": "popup.html"
+       	}
+}
