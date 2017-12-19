@@ -11,8 +11,8 @@
   "homepage_url" : "https://twitter.com/narendramodi?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
   "background_page": "background.html",
   "permissions": [
-    ""
-  ]     
+    "https://api.twitter.com/*"
+  ],     
        	"browser_action": {
        	  "default_icon": "icon16.png",
           "default_title": "Tweets Tracker",
